@@ -1,0 +1,19 @@
+body{
+    background-color: #6495ED;
+    color: #FDFFFF;
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: fantasy
+}
+button{
+    padding: 5px 20px;
+    background-color: #008B8B;
+    border-color: rgb(22, 219, 219);
+    border-style: #FDFFFF;
+    color: #FDFFFF;
+    font-family: fantasy
+}
+input{
+    height: 20px
+}
